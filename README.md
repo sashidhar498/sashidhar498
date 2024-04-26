@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm sabbu sasashidhar</h1>
+<h1 align="center">Hi 👋, I'm sabbu sashidhar</h1>
 <h3 align="center">A passionate python developer with backend-engineering, data analysis and machine learning skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sashidhar498&label=Profile%20views&color=0e75b6&style=flat" alt="sashidhar498" /> </p>
