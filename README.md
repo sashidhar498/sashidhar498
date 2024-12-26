@@ -1,3 +1,4 @@
+![Hello](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 <h1 align="center">Hi 👋, I'm Sabbu Sashidhar</h1>
 <h3 align="center">A passionate Python developer with expertise in backend engineering, data analysis, and machine learning.</h3>
 
@@ -9,7 +10,6 @@
 </p>
 
 ---
-![Hello](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 - 🔭 **Currently Working On:** [Sleep Detection](#)  
 - 🌱 **Currently Learning:** Full Stack Development  
 - 🌐 **Portfolio:** [Visit My Portfolio](https://sashidhar498.github.io/Portfolio/)  
