@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sabbu Sashidhar</h1>
 <h3 align="center">A passionate Python developer with expertise in backend engineering, data analysis, and machine learning.</h3>
-
+![Hello](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sashidhar498&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://twitter.com/sashidh51920793" target="blank">
