@@ -14,7 +14,7 @@
 - 🌱 **Currently Learning:** Full Stack Development  
 - 🌐 **Portfolio:** [Visit My Portfolio](https://sashidhar498.github.io/Portfolio/)  
 - 📫 **How to Reach Me:** sashidhar498@gmail.com  
-- 📄 **Resume:** [View My Resume](https://drive.google.com/drive/folders/13Mq3WE22nnezQRNv9ViIIOr3leOyKALU?usp=sharing)  
+- 📄 **Certificates and Resume:** [View My Resume](https://drive.google.com/drive/folders/13Mq3WE22nnezQRNv9ViIIOr3leOyKALU?usp=sharing)  
 - ⚡ **Fun Fact:** I love programming and experimenting with tech gadgets.
 
 ---
