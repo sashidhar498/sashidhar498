@@ -7,13 +7,14 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sashidhar498&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://twitter.com/sashidh51920793" target="blank">
-    <img src="https://img.shields.io/twitter/follow/sashidh51920793?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
+ <a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
+  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+</a>
+
 </p>
 
 ---
-- 🔭 **Currently Working On:** [Sleep Detection](https://github.com/sashidhar498/Sleep_detection)  
+- 🔭 **Previously worked on:** [Sleep Detection](https://github.com/sashidhar498/Sleep_detection)  
 - 🌱 **Currently Learning:** Full Stack Development  
 - 🌐 **Portfolio:** [Visit My Portfolio](https://sashidhar498.github.io/Portfolio/)  
 - 📫 **How to Reach Me:** sashidhar498@gmail.com  
