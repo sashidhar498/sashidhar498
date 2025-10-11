@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sashidhar498&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  ![Profile views](https://komarev.com/ghpvc/?username=sashidhar498&color=blue)
  <a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
   <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
 </a>
